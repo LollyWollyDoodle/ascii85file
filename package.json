@@ -1,0 +1,17 @@
+{
+  "name": "@lwd/ascii85file",
+  "version": "0.1.0",
+  "description": "ASCII85-encode a file by name",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LollyWollyDoodle/ascii85file.git"
+  },
+  "bin": {
+    "ascii85file": "./cli.js"
+  },
+  "dependencies": {
+    "ascii85": "^1.0.2"
+  }
+}
