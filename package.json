@@ -1,6 +1,6 @@
 {
   "name": "@lwd/ascii85file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ASCII85-encode a file by name",
   "main": "index.js",
   "license": "UNLICENSED",
